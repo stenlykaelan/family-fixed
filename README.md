@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 ![SA-MP](https://img.shields.io/badge/SA--MP-0.3.7%20R2%2FR3%2FR4-orange.svg)
 
-A modern, efficient family system for SA-MP servers. Designed for roleplay and freeroam environments, this system integrates advanced features with clean, optimized Pawn code. It ensures performance and scalability for servers aiming for a professional gameplay experience.
+A modern, efficient family system for SA-MP servers. Designed for roleplay environments, this system integrates advanced features with clean, optimized Pawn code. It ensures performance and scalability for servers aiming for a gameplay experience.
 
 ## Overview
 
