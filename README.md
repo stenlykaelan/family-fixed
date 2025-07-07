@@ -9,7 +9,7 @@ A modern, efficient family system for SA-MP servers. Designed for roleplay envir
 
 ## Overview
 
-- **Script Name:** Advanced Family System  
+- **Script Name:** Pamily System  💋
 - **Version:** 2.5.1  
 - **Build:** 070725
 - **Language:** Pawn  
